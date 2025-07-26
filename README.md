@@ -1,1 +1,1 @@
-This collection is an example of the projects I've been working on lately. 
+This collection of samples shows code snippets I wrote in Python, from simple Data Analytics, to easy RPG's and tools like an Audio Book creator
